@@ -185,7 +185,7 @@
             <section class="bg-light py-5">
                 <div class="container px-5">
                     <div class="row gx-5 justify-content-center">
-                        <div class="col-xxl-10"> <!-- Adjusted for potentially wider column -->
+                        <div class="col-xxl-20"> <!-- Adjusted for potentially wider column -->
                             <div class="text-center my-5" style="text-align: left;"> <!-- Added inline style for left alignment -->
                                 <h2 class="display-5 fw-bolder"><span class="text-gradient d-inline">About Me</span></h2><br>
                                 <p class="lead fw-light mb-4">Hi. I'm Astra Zora Su, an XR educator and product manager with a passion for crafting compelling narratives at the intersection of new technology and progressive social good.</p>
@@ -202,7 +202,7 @@
                 </div>
             </section>
         </main>
-
+        
         <!-- Footer-->
         <footer class="bg-white py-4 mt-auto">
             <div class="container px-5">
